@@ -1,0 +1,77 @@
+@charset "utf-8";
+.body1{
+	width:100%;
+	background-color:#EDC3A5;
+	height:85px;
+}
+.logo{
+	width:20%;
+	float:left;
+	margin-left:100px;
+     }
+.menu{
+	width:69%;
+    float: left;
+	margin-top: 40px;
+	word-spacing: 15px; 	
+}
+a{text-decoration:none;
+	font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif';
+	color: #49240E;
+}
+a:hover {
+	background-color: #FFFFFF;
+}
+.subhead{
+	margin-left:20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+	color:#A85418;
+}
+.form1{
+	text-align:center;
+}	
+.text1{
+	margin-left:10px;
+}
+.form2{
+	margin-left:477px;
+}
+.type{
+	width:300px;
+	height:40px;
+	border-radius:10px;
+	margin-top: 10px;
+    border: 2px solid #545454;
+}
+.type1{
+	border-radius:5px;
+	border: 2px solid #545454;
+}
+.type2{
+	width:300px;
+	height:100px;
+	border-radius:5px;
+	margin-top: 10px;
+    border: 2px solid #545454;
+}
+.body6{
+	width:100%;
+	
+	background-color:#542A0C;
+	height:320px;
+}
+.subtext1{
+	width:22%;
+	float:left;
+	margin-left:20px;
+	margin-top:20px;
+}
+.fab{color:#ffffff;
+	font-size:20px;
+	padding:5px;
+    }
+.icon1{
+	text-align: center;
+	background-color: #542A0C;
+}
